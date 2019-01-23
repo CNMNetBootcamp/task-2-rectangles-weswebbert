@@ -6,6 +6,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
+            //Good
             //setup
             Single Multiply = 0;
             int height = 0;
